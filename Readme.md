@@ -1,4 +1,4 @@
-Liliana Estefany Pachari Barrantes<<<<<<< HEAD
-Eder Ortega
+Liliana Estefany Pachari Barrantes
+
 Moises Martinez
 
